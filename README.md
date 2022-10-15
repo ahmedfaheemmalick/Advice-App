@@ -1,9 +1,11 @@
-# Introduction
-This is a code repository for the corresponding video tutorial. 
+# Advie App
 
-In this video, we will create an interesting react project from scratch - A React Advice App. We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.
+[live Site](https://a-advice-app.netlify.app)
 
-By the end of this video, you will have a strong understanding of basic React workflow as well as how to make get requests in React Apps.
+![Advie App](/preview.png)
 
-Setup:
-- run ```npm i && npm start```
+This is the code repo of Advie App. There I used:
+
+- [JavaScript](https://www.w3schools.com/js)
+- [React Js](https://reactjs.org/)
+- [CSS3](https://www.w3schools.com/css)
